@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/magi093
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bhssfrc.github.io
+  * I am magi093 (https://keybase.io/magi093) on keybase.
+  * I have a public key ASC1xd1Ty4tG_plTzkbamTptAeeGZV9IR2qDHv8b3cKR6Qo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d7d0b76332507e4a813ca5f232079271d0bea1851e0f9a986c116da7b08113e60a",
+            "host": "keybase.io",
+            "kid": "0120b5c5dd53cb8b46fe9953ce46da993a6d01e786655f48476a831eff1bddc291e90a",
+            "uid": "f855d35286b223789d13303d3ee13d19",
+            "username": "magi093"
+        },
+        "service": {
+            "hostname": "bhssfrc.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486838469,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486838404,
+        "hash": "2513bd966f3444871c3767fe131e8f8a90ffac3789c3dcc61fec62d3c6cef0124d37add9bbb65c7ea55e51f78b3f1db1459a9ba46d9bcdb7011d49ed5aec0da6",
+        "seqno": 877644
+    },
+    "prev": "b795a3333ddcc7f85c7037cbadaa30f94d5396c13801e5b9d9b83df81431db6d",
+    "seqno": 45,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtcXdU8uLRv6ZU85G2pk6bQHnhmVfSEdqgx7/G93CkekKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZDdkMGI3NjMzMjUwN2U0YTgxM2NhNWYyMzIwNzkyNzFkMGJlYTE4NTFlMGY5YTk4NmMxMTZkYTdiMDgxMTNlNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjVjNWRkNTNjYjhiNDZmZTk5NTNjZTQ2ZGE5OTNhNmQwMWU3ODY2NTVmNDg0NzZhODMxZWZmMWJkZGMyOTFlOTBhIiwidWlkIjoiZjg1NWQzNTI4NmIyMjM3ODlkMTMzMDNkM2VlMTNkMTkiLCJ1c2VybmFtZSI6Im1hZ2kwOTMifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImJoc3NmcmMuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODY4Mzg0NjksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4NjgzODQwNCwiaGFzaCI6IjI1MTNiZDk2NmYzNDQ0ODcxYzM3NjdmZTEzMWU4ZjhhOTBmZmFjMzc4OWMzZGNjNjFmZWM2MmQzYzZjZWYwMTI0ZDM3YWRkOWJiYjY1YzdlYTU1ZTUxZjc4YjNmMWRiMTQ1OWE5YmE0NmQ5YmNkYjcwMTFkNDllZDVhZWMwZGE2Iiwic2Vxbm8iOjg3NzY0NH0sInByZXYiOiJiNzk1YTMzMzNkZGNjN2Y4NWM3MDM3Y2JhZGFhMzBmOTRkNTM5NmMxMzgwMWU1YjlkOWI4M2RmODE0MzFkYjZkIiwic2Vxbm8iOjQ1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQKz9VAZ8uFdD/NCoUjmarzsS1nSs1CxK9EiSORRiT9Y4nKN1VmyB6clgXZmYIkUzu9zycrAXtLaJ2THIbU1UjgOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCA54aFlEfD07DfbexK3PIKRdYzlpFfV/R0Xpo00rP3M/qN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/magi093
+
+==================================================================
