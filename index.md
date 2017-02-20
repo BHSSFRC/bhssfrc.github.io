@@ -8,3 +8,5 @@ We keep all of our programming documentation here (since 2017).
 Our team's main site is located at [http://thequadrangles.com](http://thequadrangles.com).
 
 ![a relevant xkcd](https://imgs.xkcd.com/comics/first_design.png)
+
+You may locate cryptographic proof of this page's administration at [`keybase.txt`](https://bhssfrc.github.io/keybase.txt)
