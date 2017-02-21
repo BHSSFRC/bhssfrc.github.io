@@ -19,4 +19,4 @@ so here's some technical specs for future reference.
 * Commands **must**:
   * NEVER, EVER, EVER have static fields. **EVER.**
 
-A field may be static if and only if you are confident you know what you are doing, is __***not***__ in a command, or if it's in the `Robot` class.
+A field may be static if and only if you are confident you know what you are doing, is ***not*** in a command, or if it's in the `Robot` class.
