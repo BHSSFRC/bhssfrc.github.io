@@ -17,12 +17,12 @@ look i'm funny
 
 #### Set up GitHub
 
-**If you already have an account:**
+##### If you already have an account:
 1. Pester me to get into the [GitHub organization.](https://github.com/BHSSFRC) This will give you read and write access to all of the code as it is stored online.
 2. For the love of denim jackets: [SET. UP. 2FA.](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/) This will make it that much harder for someone to worm thier way into your account.
  * If you do this, and didn't install a GUI like GitKraken, you'll need to install SSH and set up a key for it on GitHub (as HTTP remotes won't work the same way.)
 3. Sign up for the [student pack](https://education.github.com/pack) if you haven't already for all sorts of free stuff.
 4. ~~Gloat, because everyone else is going to have much more to do in this part.~~
 
-**If you don't:**
+##### If you don't:
 1. Register for an account at https://github.com, using an email that MCCSC did **not** give you. MCCSC emails will not recieve the confirmation email from GitHub, because MCCSC is silly.
