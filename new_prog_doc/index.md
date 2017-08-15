@@ -12,8 +12,7 @@ revision 0
  * [IntelliJ IDEA](http://www.jetbrains.com/idea/)<br>Note: the Community Edition is fine, but you can apply for a free copy of the Ultimate edition as a student.
  * [VS Code](https://code.visualstudio.com/) with the [Java](https://marketplace.visualstudio.com/items?itemName=redhat.java) and [Gradle](https://marketplace.visualstudio.com/items?itemName=cazzar09.Gradle) extensions.
 
-### `git` started
-look i'm funny
+### Prepare `git`
 
 #### Set up GitHub
 
@@ -25,4 +24,8 @@ look i'm funny
 4. ~~Gloat, because everyone else is going to have much more to do in this part.~~
 
 ##### If you don't:
-1. Register for an account at https://github.com, using an email that MCCSC did **not** give you. MCCSC emails will not recieve the confirmation email from GitHub, because MCCSC is silly.
+1. Register for an account at [GitHub](https://github.com), using an email that MCCSC did **not** give you. MCCSC emails will not recieve the confirmation email from GitHub, because MCCSC is silly.
+2. Gain access to the [GitHub organization.](https://github.com/BHSSFRC)
+3. [Set up 2FA](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/) ~~to keep the Russians out.~~
+4. [Get a ssh key configured for your account.](https://help.github.com/articles/connecting-to-github-with-ssh/)
+5. Sign up for the [student pack](https://education.github.com/pack) because you deserve free stuff.
