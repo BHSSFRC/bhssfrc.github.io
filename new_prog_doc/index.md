@@ -11,6 +11,7 @@ revision 0
  * [Eclipse](https://www.eclipse.org/)
  * [IntelliJ IDEA](http://www.jetbrains.com/idea/)<br>Note: the Community Edition is fine, but you can apply for a free copy of the Ultimate edition as a student.
  * [VS Code](https://code.visualstudio.com/) with the [Java](https://marketplace.visualstudio.com/items?itemName=redhat.java) and [Gradle](https://marketplace.visualstudio.com/items?itemName=cazzar09.Gradle) extensions.
+
 ### `git` started
 look i'm funny
 
