@@ -44,3 +44,6 @@ git config --global user.email "your_email@place.tld"
 ```
 
 You can test these values by doing `git config --global user.name` (or `user.email`)
+
+### Get a copy of the code
+`todo`
