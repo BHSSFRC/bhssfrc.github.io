@@ -17,7 +17,7 @@ revision 0
 ##### If you already have an account:
 1. Pester me to get into the [GitHub organization.](https://github.com/BHSSFRC) This will give you read and write access to all of the code as it is stored online.
 2. For the love of denim jackets: [SET. UP. 2FA.](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/) This will make it that much harder for someone to worm thier way into your account.
- * If you do this, and didn't install a GUI like GitKraken, you'll need to install SSH and set up a key for it on GitHub (as HTTP remotes won't work the same way.)
+ * If you do this, and didn't install a GUI like GitKraken, you'll need to install SSH and set up a key for it on GitHub (as HTTP remotes won't work the same way for 2FA users.)
 3. Sign up for the [student pack](https://education.github.com/pack) if you haven't already for all sorts of free stuff.
 4. ~~Gloat, because everyone else is going to have much more to do in this part.~~
 
@@ -43,7 +43,14 @@ Then, your email. This **must** be the same email that you have on your GitHub a
 git config --global user.email "your_email@place.tld"
 ```
 
-You can test these values by doing `git config --global user.name` (or `user.email`)
+You can test these values by doing `git config --global user.name` (or `user.email`.)
 
 ### Get a copy of the code
-`todo`
+You'll need to "clone" the code from GitHub. This can be done with a simple command if you're not using a GUI.
+
+```sh
+cd /path/where/you/want/the/code/
+# personal reccomendation: ~ on Linux/Mac, C:\Users\yourusername on Windows
+git clone git@github.com:BHSSFRC/repo-to-be-announced.git
+```
+(This command will only work if you configured an SSH key for your GitHub account.)
