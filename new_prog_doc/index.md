@@ -56,3 +56,5 @@ cd /path/where/you/want/the/code/
 git clone git@github.com:BHSSFRC/repo-to-be-announced.git
 ```
 (This command will only work if you configured an SSH key for your GitHub account.)
+
+You should now see a folder named `repo-to-be-announced` in the directory you ran the `git clone` command in.
