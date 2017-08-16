@@ -30,7 +30,7 @@ revision 0
 3. [Set up 2FA](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/) ~~to keep the Russians out.~~
 4. [Get a ssh key configured for your account.](https://help.github.com/articles/connecting-to-github-with-ssh/)
 5. Sign up for the [student pack](https://education.github.com/pack) because you deserve free stuff.
-&nbsp; 
+ 
 #### Set up `git` itself.
 Now `git` needs to know who you are, for various reasons (prime among them being so you can be properly credited for your contributions with green squares.)
 
