@@ -11,6 +11,6 @@ the `git` manual. This document only covers how we structure the repository bran
 * [The DuckDuckGo cheat sheet.](https://duckduckgo.com/?q=git+cheat+sheet&t=ffab&ia=cheatsheet)
 
 ## General branch structure in one image
-![git flow diagram](https://github.com/arslanbilal/git-cheat-sheet/blob/master/Img/git-flow-commands-without-flow.png)
+![git flow diagram](https://raw.githubusercontent.com/arslanbilal/git-cheat-sheet/master/Img/git-flow-commands-without-flow.png)
 
 holy smokes that's a dense bit of information.
