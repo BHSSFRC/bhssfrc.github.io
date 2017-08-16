@@ -2,6 +2,9 @@ New Programmer Documentation
 ---
 revision 0
 
+* auto-gen TOC:
+{:toc}
+
 ## Getting Started
 ### Installing tools
 1. Install [`git`.](https://git-scm.com/)
