@@ -53,8 +53,8 @@ You'll need to "clone" the code from GitHub. This can be done with a simple comm
 ```sh
 cd /path/where/you/want/the/code/
 # personal reccomendation: ~ on Linux/Mac, C:\Users\yourusername on Windows
-git clone git@github.com:BHSSFRC/repo-to-be-announced.git
+git clone git@github.com:BHSSFRC/3494_2018_repo.git
 ```
 (This command will only work if you configured an SSH key for your GitHub account.)
 
-You should now see a folder named `repo-to-be-announced` in the directory you ran the `git clone` command in.
+You should now see a folder named `3494_2018_repo` in the directory you ran the `git clone` command in.
