@@ -59,3 +59,5 @@ git clone git@github.com:BHSSFRC/3494_2018_repo.git
 
 You should now see a folder named `3494_2018_repo` in the directory you ran the `git clone` command in.
 
+Next steps: [loading the code into your IDE.](load_code)
+
