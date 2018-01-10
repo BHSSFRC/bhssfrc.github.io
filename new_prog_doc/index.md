@@ -13,7 +13,6 @@ revision 0
 3. Install your Java IDE of choice. Suggestions:
  * [Eclipse](https://www.eclipse.org/)
  * [IntelliJ IDEA](http://www.jetbrains.com/idea/)<br>Note: the Community Edition is fine, but you can apply for a free copy of the Ultimate edition as a student.
- * **Disclaimer: This option is not reccomended.** [VS Code](https://code.visualstudio.com/) with the [Java](https://marketplace.visualstudio.com/items?itemName=redhat.java) and [Gradle](https://marketplace.visualstudio.com/items?itemName=cazzar09.Gradle) extensions.
 
 ### Prepare `git`
 #### Set up GitHub
