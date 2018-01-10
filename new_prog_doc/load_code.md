@@ -29,7 +29,7 @@ Loading the robot code into your IDE
 5. Pick any workspace directory you like.
 6. Once Eclipse launches, go to File -> Open Projects from File System
 7. Click the "Directory" button.
-8. Find the folder that where `build.gradle` lives, and choose it.
+8. Find the folder where `build.gradle` lives, and choose it.
 9. Click finish, and wait for the import to finish. You're done.
 
 **N.B.:** Eclipse has a different code formatting standard than IntelliJ. You **must** change the code formatting settings to match the IntelliJ defaults, which essentially amounts to using four spaces instead of a tab character.
